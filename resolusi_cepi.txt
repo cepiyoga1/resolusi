@@ -1,1 +1,3 @@
-Resolusi cepi yoga tahun 2023
+Resolusi cepi yoga tahun 2023, sebagai berikut :
+1. belajar gitHub
+2. Belajar Udemy bahasa pemograman Dart
