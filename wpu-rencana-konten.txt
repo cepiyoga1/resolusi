@@ -3,7 +3,10 @@ RENCANA KONTEN WPU
 - Bikin Video Javascript
   * ES6
   * Framework JS
+     ^Vue
 - Strucktur data dasar
 - PHP Fremework
+    ^Laravel
 - Inerview
 - Vloger
+- Python
