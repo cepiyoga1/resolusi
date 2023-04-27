@@ -4,6 +4,7 @@ RENCANA KONTEN WPU
   * Framework JS
     ^Angular
     ^React
+    ^Angular
 - PHP Fremework
    ^Laravel
 - Strucktur data dasar
