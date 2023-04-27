@@ -1,3 +1,6 @@
 Resolusi cepi yoga tahun 2023, sebagai berikut :
 1. belajar gitHub
 2. Belajar Udemy bahasa pemograman Dart
+3. belajar flutter
+4. implementasi flutter
+5. update excel file
